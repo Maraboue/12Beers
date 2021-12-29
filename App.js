@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+//import './styles.css';
 import {useState, useEffect} from 'react';
 import beerGif from './images/drinking-beer.gif';
 
